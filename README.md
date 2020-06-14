@@ -1,5 +1,5 @@
 # SystemTimeSync
-SystemTimeSync is a windows service which starts up with windows and run few functions which sets forcefully syncs with the time service (time.windows.com)
+SystemTimeSync is a windows service which starts up with windows and run few functions which forcefully syncs with the windows time service (time.windows.com)
 Last windows update introduced a bug which desyncs windows time. This should hopefully act as a workaround for that until Microsoft issues a patch.
 
 ## Installation
