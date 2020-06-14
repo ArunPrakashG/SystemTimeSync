@@ -10,3 +10,7 @@ Last windows update introduced a bug which desyncs windows time. This should hop
 * Wait for few moments for the script to complete its execution.
 * Once its done, u can see a confirmation message stating if the service is successfully installed or not. If it fails, you might have a corrupt download or the directory isn't correct.
 * Thats it!
+
+## Uninstallation
+
+* Just run the uninstall.bat as adminstrator!
