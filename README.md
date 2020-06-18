@@ -14,3 +14,8 @@ Last windows update introduced a bug which desyncs windows time. This should hop
 ## Uninstallation
 
 * Just run the uninstall.bat as adminstrator!
+
+## Troubleshooting
+
+* If you get System.IO.FileLoadException which states that the program failed to load essential files during startup and the whole process fails, then it is due to windows blocking the download file. the `SystemTimeSync.exe` file to precise.
+Simply, right click on the file, go to properties, tick the unblock option and press apply. it should fix it.
